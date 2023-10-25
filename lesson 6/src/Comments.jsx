@@ -7,7 +7,7 @@ function Comment() {
       <h1>Comment</h1>
       <Link to="/home">Повернутися на головну сторінку</Link>
       <br />
-      <Link to="/about">Перейти на сторінку "Про нас"</Link>
+      <Link to="/">Перейти на сторінку "Про нас"</Link>
     </div>
   );
 }

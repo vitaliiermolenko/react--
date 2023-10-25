@@ -5,7 +5,7 @@ function Home() {
   return (
     <div>
       <h1>Home Page</h1>
-      <Link to="/about">Перейти на сторінку "Про нас"</Link>
+      <Link to="/">Перейти на сторінку "Про нас"</Link>
       <br />
       <Link to="/comments">Перейти на сторінку "З Коментами"</Link>
     </div>
